@@ -1,0 +1,2 @@
+'cp949' codec can't decode byte 0xf0 in position 9: illegal multibyte sequence
+'cp949' codec can't decode byte 0xf0 in position 9: illegal multibyte sequence
